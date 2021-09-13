@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "avatar": "../assets/images/image-daniel.jpg",
+        "name": "Daniel Clifford",
+        "job": "Muratore",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam molestie augue vitae sem dapibus, nec porta libero egestas. Etiam neque enim, scelerisque faucibus magna a, tristique rhoncus erat.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam molestie augue vitae sem dapibus, nec porta libero egestas. Etiam neque enim, scelerisque faucibus magna a, tristique rhoncus erat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam molestie augue vitae sem dapibus, nec porta libero egestas. Etiam neque enim, scelerisque faucibus magna a, tristique rhoncus erat."
+    },
+    {
+        "id": 2,
+        "avatar": "../assets/images/image-jonathan.jpg",
+        "name": "Mario Rossi",
+        "job": "Pilota",
+        "title": "Mauris rutrum eros erat, id facilisis neque pulvinar ut. ",
+        "description": "Mauris rutrum eros erat, id facilisis neque pulvinar ut. Mauris rutrum eros erat, id facilisis neque pulvinar ut. Mauris rutrum eros erat, id facilisis neque pulvinar ut."
+    },
+    {
+        "id": 3,
+        "avatar": "../assets/images/image-patrick.jpg",
+        "name": "Giosuè Carducci",
+        "job": "Imbianchino",
+        "title": "Aliquam et condimentum nisi. Duis dignissim, ante sit amet ultrices lacinia.",
+        "description": "Aliquam et condimentum nisi. Duis dignissim, ante sit amet ultrices lacinia, lectus mi commodo magna, nec scelerisque dolor turpis quis tortor. "
+    },
+    {
+        "id": 4,
+        "avatar": "../assets/images/image-jeanette.jpg",
+        "name": "Elisabetta Gregoraci",
+        "job": "Estetista",
+        "title": "Maecenas ut nulla congue, auctor neque et, ornare odio. Sed ullamcorper metus vitae diam suscipit lobortis. Proin ultrices sodales dui, sed pellentesque augue lobortis sit amet.",
+        "description": "Proin ultrices sodales dui, sed pellentesque augue lobortis sit amet.Maecenas ut nulla congue, auctor neque et, ornare odio. Sed ullamcorper metus vitae diam suscipit lobortis. Proin ultrices sodales dui, sed pellentesque augue lobortis sit amet.Maecenas ut nulla congue, auctor neque et, ornare odio. Sed ullamcorper metus vitae diam suscipit lobortis."
+    },
+    {
+        "id": 5,
+        "avatar": "../assets/images/image-kira.jpg",
+        "name": "Valentina Bianchi",
+        "job": "Impiegata",
+        "title": "Nam tempor felis at augue lobortis porta. Quisque nec nisi laoreet, aliquet ante et, faucibus eros.",
+        "description": "Quisque nec nisi laoreet, aliquet ante et, faucibus eros.Curabitur sodales elementum nibh, dictum imperdiet orci porttitor sit amet. Nam tempor felis at augue lobortis porta. Quisque nec nisi laoreet, aliquet ante et, faucibus eros.Curabitur sodales elementum nibh, dictum imperdiet orci porttitor sit amet. Nam tempor felis at augue lobortis porta. Quisque nec nisi laoreet, aliquet ante et, faucibus eros.Curabitur sodales elementum nibh, dictum imperdiet orci porttitor sit amet. Nam tempor felis at augue lobortis porta. Quisque nec nisi laoreet, aliquet ante et, faucibus eros.Curabitur sodales elementum nibh, dictum imperdiet orci porttitor sit amet. Nam tempor felis at augue lobortis porta. Quisque nec nisi laoreet, aliquet ante et, faucibus eros."
+    }
+]

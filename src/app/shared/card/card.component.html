@@ -1,0 +1,28 @@
+<div class="containerCard" id="{{ id }}"
+[ngClass]="{'card-80': id === 1 || id === 4, 'card-20': id === 2 || id === 3, 'card-100': id === 5}"
+[ngStyle]="{ 'margin-bottom': id ===1 || id === 2 ? '30px': '', 
+'background-color': (id === 1? 'hsl(263, 55%, 52%)' : (id === 2 ? 'hsl(217, 19%, 35%)' : (id === 3 || id === 5 ? 'hsl(0, 0%, 100%)' : (id === 4 ? 'hsl(219, 29%, 14%)' : 'hsl(0, 0%, 100%)')))),
+'color' : id === 3 || id === 5 ? 'hsl(219, 29%, 14%)' : 'hsl(0, 0%, 100%)'}"
+>
+    <div class="containerCard__header">
+        <div class="containerCard__header__avatar">
+            <img src="{{ testimonial.avatar }}" alt="image {{ testimonial.name }}">
+        </div>
+        <div class="containerCard__header__name">
+            <h3>{{ testimonial.name }}</h3>
+            <p>{{ testimonial.job }}</p>
+        </div>
+    </div>
+    <div class="containerCard__title">
+        <h2>
+            {{ testimonial.title }}
+        </h2>
+    </div>
+    <div class="containerCard__description">
+        <p>
+            {{ testimonial.description }}
+        </p>
+    </div>
+
+    <img *ngIf="id === 1" src="../../../assets/images/bg-pattern-quotation.svg" alt="image" class="card-bg">
+</div>

@@ -1,0 +1,17 @@
+<div class="contain-card">
+    <div class="contain-card__left" style="display: flex; flex-wrap: wrap;">
+        <app-card *ngFor="let item of arrTestimonial" 
+        [testimonial]="item"
+        [id]="item.id"
+
+        ></app-card>
+    </div>
+    <div class="contain-card__right">
+        <app-card *ngFor="let item of arrayTestimonial" 
+        [testimonial]= "item"
+        [id]="item.id"
+        ></app-card>
+    </div>
+</div>
+
+
